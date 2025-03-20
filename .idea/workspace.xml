@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 초기 재설정 v0.2" />
+    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 초기 재설정 jekyll">
+      <change afterPath="$PROJECT_DIR$/_includes/education.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/experience.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/left.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/more.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/opensource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/right.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/skill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/top-middle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/top-right.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/top.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,19 +38,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Hello/Desktop/개발자료/LeeTaeSung0628.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hello\Desktop\개발자료\LeeTaeSung0628.github.io" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +75,7 @@
       <updated>1742430651636</updated>
       <workItem from="1742430652831" duration="135000" />
       <workItem from="1742430795330" duration="447000" />
-      <workItem from="1742431867973" duration="2718000" />
+      <workItem from="1742431867973" duration="3934000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 초기 재설정 v0.2">
       <option name="closed" value="true" />
@@ -63,7 +85,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742433453848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 초기 재설정 jekyll">
+      <option name="closed" value="true" />
+      <created>1742439036833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742439036833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 초기 재설정 jekyll">
+      <option name="closed" value="true" />
+      <created>1742439046340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742439046340</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: 초기 재설정 jekyll">
+      <option name="closed" value="true" />
+      <created>1742439055814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742439055814</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: 초기 재설정 jekyll">
+      <option name="closed" value="true" />
+      <created>1742439081921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742439081921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 초기 재설정 v0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 초기 재설정 v0.2" />
+    <MESSAGE value="feat: 초기 재설정 jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 초기 재설정 jekyll" />
   </component>
 </project>

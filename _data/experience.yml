@@ -1,47 +1,46 @@
 - layout: left
-  company: 인프랩
-  link: https://www.inflearn.com/
-  job_title: CTO
-  dates: 2021.04 ~ 현재
+  company: 헬로펀딩
+  link: https://www.hellofunding.co.kr
+  job_title: Java & Spring / JS - 풀스텍 개발
+  dates: 2024.05 ~ 현재
   quote: >
-    회원수 100만, 누적 학습수 3000만건의 에듀테크 서비스
+    누적 대출금액 2조 5000억원의 대출·투자 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * 사내 모니터링 & 알람 도입 (APM / CloudWatch & Lambda)
-    * [신규 서비스 랠릿](https://www.rallit.com/) 전체 아키텍처 및 도메인 모델 설계
-    * PostgreSQL 성능 튜닝 및 [장애 대응](https://tech.inflab.com/202201-event-postmortem/)
-    * 개발파트 채용 브랜딩 개선 ([백엔드](https://www.notion.so/inflab/NodeJS-c3df214ebb28423092f6798122156c4d) / [프론트엔드](https://www.notion.so/inflab/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642))
-    * 테스트 코드 & 코드리뷰 & 아키텍처 개선 등 개발환경 개선
+    * 전자금융기반시설 취약점 개선
+    * 대규모 트래픽, 데이터 환경에서의 모듈 개발 / 장애 대응
+    * [서비스 통계 & 관리 도입 (Spring AOP)](https://lts.kr/project/hello-marketing/%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6-marketing-analytics-%EA%B3%B5%ED%86%B5%EB%AA%A8%EB%93%88-%EC%A0%9C%EC%9E%91%EA%B8%B0.html)
+    * [신규 서비스 주택담보대출](https://www.hellofunding.co.kr/sp/loan) 시세조회 모듈 / 2차 결제 개발
+    * [회원 예치금 배치 서비스 성능 개선 (Spring Batch)](https://lts.kr/project/hello-batch/%F0%9F%8F%B9-%EC%98%88%EC%B9%98%EA%B8%88-%EC%B0%A8%EC%95%A1-%EB%B9%84%EA%B5%90-spring-batch-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81.html)
+    * 코드리뷰 & 세미나 & 깃 컨벤션 신규도입 등 개발환경 개선 참여
 - layout: left
-  company: 우아한형제들
-  link: https://www.woowahan.com/
-  job_title: Java & Spring 백엔드 개발자
-  dates: 2016.12 ~ 2021.04
+  company: TeamMeloMeter
+  link:
+  job_title: swift - fireBase cloud - 백엔드 개발<br/>사이드 프로젝트
+  dates: 2023.05 ~ 2023.11
   quote: >
-   MAU 1,500만, 일 주문 300만건의 커머스 서비스
+    위치기반 서비스 사업 (side project)
   description: | # this will include new lines to allow paragraphs
-     * 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
-     * 정산, 포인트, 주문 시스템의 레거시 개편
-     * 업계 최초 일정산, 광고 정산 등 비지니스 지원
-     * IDC / AWS 환경 모두에서 무중단 배포, 성능 테스트, 운영 시스템 구축
-     * 2019년 상반기 <mark>우수사원</mark> 수상
+    * 커플전용 위치공유 ios service [MELO METER](https://apps.apple.com/kr/app/melometer/id6450677988) 출시 및 500명 회원 유치
+    * fireBase 인프라 구축
+    * NoSQL 실시간 DB 설계
+    * 실시간 위치공유 서비스 / 채팅 서비스 개발
 - layout: left
-  company: 줌인터넷
-  link: https://zum.com
-  job_title: 웹 개발자
-  dates: 2014.12 ~ 2016.12
+  company: 케이투웹테크
+  link: https://www.k2web.co.kr/
+  job_title: Java & Spring / JS - 풀스텍 개발 / 대학연계 인턴
+  dates: 2022.04 ~ 2023.03
   quote: >
-   일일 PV 2000만의 포탈 서비스
+    웹기반 솔루션 SI 기업
   description: | # this will include new lines to allow paragraphs
-     * 포털 메인 페이지, 회원 서비스의 메인 개발자로 개발/운영
-     * EhCache를 이용한 로컬 캐시, 브라우저 전역 변수를 이용한 클라이언트 캐시등으로 API서버가 죽어도 문제가 없는 메인페이지 구성
-     * IDC 인프라 환경에서의 개발/운영
-     * 2016년 본부 추천 <mark>특진</mark> 
+     * 서울시 보건소 차트 서비스 개발 운영
+     * 인사 시스템 성능 개선
+     * ERP 시스템의 레거시 개편
 - layout: left
-  company: KCC정보통신
-  job_title: 웹 개발자
-  dates: 2014.02 ~ 2014.12
+  company: 학부생 연구원
+  job_title: Web/App 프로젝트 담당
+  dates: 2021.06 ~ 2022.02
   quote: >
-   연매출 1000억의 중견 SI 기업
+   대학 학부생 프로젝트 개발 연구원 활동
   description: | # this will include new lines to allow paragraphs
-     * 사내 프로젝트 개발 및 100억원의 SI 프로젝트 참여
-     * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험  
+     * [대치 명인 학원 홈페이지](https://myunginedu.co.kr/) 유지보수
+     * [순천만국가정원](https://apps.apple.com/kr/app/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90/id1600170379) 가이드 앱 출시

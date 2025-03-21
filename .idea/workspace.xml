@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 초기로 재설정">
+    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: theme 초기 설정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/experience.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/left.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/opensource.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/opensource.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/right.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/right.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/skill.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/skill.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/top-middle.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/top-middle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/top-right.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/top-right.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/top.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +24,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2uYfuSDLKc48kKDoeO1k27R92ym" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -83,6 +71,8 @@
       <workItem from="1742430652831" duration="135000" />
       <workItem from="1742430795330" duration="447000" />
       <workItem from="1742431867973" duration="3934000" />
+      <workItem from="1742519872872" duration="1585000" />
+      <workItem from="1742545288912" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 초기 재설정 v0.2">
       <option name="closed" value="true" />

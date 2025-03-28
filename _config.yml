@@ -20,22 +20,16 @@ facebook_username: LeeTaeSung0628
 
 # About Section
 # about_title: About Me
-about_profile_image: images/93201296.jpg
+about_profile_image: images/prof2.png
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring / web, mobile 기반의 2년 차 서버 백엔드 개발자로서 다양한 경험을 쌓아왔습니다.
+  Java & Spring / web, mobile 기반의 <mark>2년 차</mark> 서버 백엔드 개발자로서 다양한 경험을 쌓아왔습니다.
   특히, **좋은 객체지향 설계**를 목표로 항상 고민하고 있다는 점이 저만의 강점입니다.<br/><br/>
+  
   이러한 고민과 배움을 잊지 않기 위해, 업무 중 학습한 내용을 정리한 <mark>약 200page</mark> 분량의 **기술 포스트**를 작성하여
-  팀원들과 공유하였고, 그중 공개 가능한 자료는 기술 블로그를 통해 운영 중입니다.<br/>
+  팀원들과 공유하고 있고, 그중 공개 가능한 자료는 [기술 블로그](https://www.lts.kr/)를 통해 운영 중입니다.<br/><br/>
   
-  또한, 새로운 기술을 단순히 학습하는 데 그치지 않고, 이를 실제 문제 해결에 응용하여 성능을 개선하는 데 초점을 두고 개발에 임하고 있습니다.<br/>
-  <mark>5만 명 이상</mark>의 회원을 관리하는 금융 배치 시스템을 Partitioning 방식과 QuerydslPagingItemReader를 적용해 리펙토링 하여,
-  소요 시간을 <mark>80% 이상 감축</mark>한 경험이 있습니다.<br/>
-  
-  이외에도 Spring AOP를 활용해 통계 모듈을 개발함으로써, 로그 수집 및 분석 기능을 시스템에 도입하고, <mark>코드 변경 없이</mark>
-  운영자가 직접 관리할 수 있도록 개선하여 유지보수성과 확장성을 높였습니다.
-  이처럼 서비스 개선 포인트를 세심하게 살피며, 안정성과 효율성을 함께 고려하고 있습니다.<br/><br/>
-  
-  서비스 품질 향상에 대한 적극적인 자세와 끊임없는 자기 개발을 통해, 더 나은 개발자로 지속적으로 성장해 나가고자 합니다.
+  또한, 새로운 기술을 단순히 학습하는 데 그치지 않고, 이를 실제 문제 해결에 응용하여 batch, 통계 등 다양한 환경에서의 <mark>성능 개선</mark>을 이끌어냈습니다.<br/>
+  이처럼 서비스 품질 향상에 대한 적극적인 자세와 끊임없는 자기 개발을 통해, 더 나은 개발자로 지속적으로 성장해 나가고자 합니다.
 
 
 # Projects Section

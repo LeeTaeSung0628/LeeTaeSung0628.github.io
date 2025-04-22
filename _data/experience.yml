@@ -6,7 +6,7 @@
   quote: >
     누적 대출금액 2조 5000억원의 대출·투자 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * 전자금융기반시설 취약점 개선
+    * [전자금융기반시설 취약점 개선](https://lts.kr/study/cs/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html)
     * 대규모 트래픽, 데이터 환경에서의 모듈 개발 / 장애 대응
     * [서비스 통계 & 관리 도입 (Spring AOP)](https://lts.kr/project/hello-marketing/%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6-marketing-analytics-%EA%B3%B5%ED%86%B5%EB%AA%A8%EB%93%88-%EC%A0%9C%EC%9E%91%EA%B8%B0.html)
     * [신규 서비스 주택담보대출](https://www.hellofunding.co.kr/sp/loan) 시세조회 모듈 / 2차 결제 개발

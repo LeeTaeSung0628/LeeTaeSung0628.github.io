@@ -1,18 +1,16 @@
 - layout: left
   name: Backend
   description: | # this will include new lines to allow paragraphs
-    * Java, Swift, PHP
-    * Spring Boot, Spring MVC, Spring Batch, Spring AOP, Spring Data JPA/Redis
-    * JPA, Querydsl, Hibernate, MyBatis
-    * Gradle, Maven
-    * IntelliJ, Xcode, Visual Studio Code
+    * Java,  Swift
+    * Spring Boot,  Spring MVC,  Spring Batch,  Spring AOP,  Spring Data JPA,  Redis
+    * Querydsl,  Hibernate,  MyBatis
 - layout: left
   name: DevOps
   description: | # this will include new lines to allow paragraphs
-    * MySQL, MongoDB, Oracle
-    * Jenkins, AWS, Docker, Git
-    * Elastic Cache (Redis)
-    * FireBase, Tomcat
+    * MySQL,  MongoDB,  Oracle
+    * Jenkins,  AWS,  Docker,  Git,  ELK-stack, 
+    * Redis
+    * FireBase, AWS, Vultr Cloud
 - layout: left
   name: Frontend
   description: | # this will include new lines to allow paragraphs

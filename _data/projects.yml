@@ -33,4 +33,5 @@
   description: | # this will include new lines to allow paragraphs
     * 헬로펀딩_  jenkins / docker / k8s / 분산DB 환경에서의 멀티스레드 모듈 개발 
     * 사이드 프로젝트_  FireBase의 realtime database를 사용한 실시간 위치공유 서비스 개발 / 회원 관리
-    * [개인 Blog](https://lts.kr/project/note-ci_cd/%F0%9F%91%BB-obsidian-%EC%A0%95%EC%A0%81%ED%98%B8%EC%8A%A4%ED%8C%85-cicd-%EA%B3%BC%EC%A0%95.html) - AWS/Docker →  netlify CI/CD 운영
+    * [Obsidian기반 Blog](https://lts.kr/project/note-ci_cd/%F0%9F%91%BB-obsidian-%EC%A0%95%EC%A0%81%ED%98%B8%EC%8A%A4%ED%8C%85-cicd-%EA%B3%BC%EC%A0%95.html) - AWS/Docker →  netlify CI/CD 운영
+    * 사이드 프로젝트_ [AnoniChat](https://lts.kr/project/new-project/%E2%98%98-anoni-chat-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%8F%84%EA%B5%AC-%EC%A0%81%EC%9A%A9(elastic-apm)-+-slack%EC%95%8C%EB%A6%BC.html) - Cloud 기반 CI/CD 인프라 전체 구축 및 운영 (Jenkins / ELK-stack / git )

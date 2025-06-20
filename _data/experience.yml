@@ -9,8 +9,9 @@
     * [전자금융기반시설 취약점 개선](https://lts.kr/study/cs/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html)
     * 대규모 트래픽, 데이터 환경에서의 모듈 개발 / 장애 대응
     * [서비스 통계 & 관리 도입 (Spring AOP)](https://lts.kr/project/hello-marketing/%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6-marketing-analytics-%EA%B3%B5%ED%86%B5%EB%AA%A8%EB%93%88-%EC%A0%9C%EC%9E%91%EA%B8%B0.html)
-    * [신규 서비스 주택담보대출](https://www.hellofunding.co.kr/sp/loan) 시세조회 모듈 / 2차 결제 개발
+    * [신규 서비스 주택담보대출](https://www.hellofunding.co.kr/sp/loan) 시세조회 모듈, 서류 원클릭 수취 모듈 개발
     * [회원 예치금 배치 서비스 성능 개선 (Spring Batch)](https://lts.kr/project/hello-batch/%F0%9F%8F%B9-%EC%98%88%EC%B9%98%EA%B8%88-%EC%B0%A8%EC%95%A1-%EB%B9%84%EA%B5%90-spring-batch-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81.html)
+    * 주택담보 대출 2차 PG 결제 시스템 도입
     * 코드리뷰 & 세미나 & 깃 컨벤션 신규도입 등 개발환경 개선 참여
 - layout: left
   company: TeamMeloMeter
@@ -32,9 +33,8 @@
   quote: >
     웹기반 솔루션 SI 기업
   description: | # this will include new lines to allow paragraphs
-     * 서울시 보건소 차트 서비스 개발 운영
-     * 인사 시스템 성능 개선
-     * ERP 시스템의 레거시 개편
+     * 서울시 보건소 의료차트 서비스 개발/운영
+     * 그룹웨어 레거시 시스템 (PHP > SpringBoot) 기반 리펙토링
 - layout: left
   company: 학부생 연구원
   job_title: Web/App 프로젝트 담당
@@ -42,5 +42,5 @@
   quote: >
    대학 학부생 프로젝트 개발 연구원 활동
   description: | # this will include new lines to allow paragraphs
-     * [대치 명인 학원 홈페이지](https://myunginedu.co.kr/) 유지보수
-     * [순천만국가정원](https://apps.apple.com/kr/app/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90/id1600170379) 가이드 앱 출시
+     * [대치 명인 학원 홈페이지] 모의고사 기출문제 페이지 유지보수
+     * [순천만국가정원](https://apps.apple.com/kr/app/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90/id1600170379) 가이드 앱 개발/출시

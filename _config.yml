@@ -23,13 +23,13 @@ facebook_username: LeeTaeSung0628
 about_profile_image: images/prof2.png
 about_content: | # this will include new lines to allow paragraphs
   Java & Spring / web, mobile 기반의 <mark>2년 차</mark> 서버 백엔드 개발자로서 다양한 경험을 쌓아왔습니다.
-  특히, **좋은 객체지향 설계**를 목표로 항상 고민하고 있다는 점이 저만의 강점입니다.<br/><br/>
+  특히, **좋은 객체지향 설계**를 목표로 항상 고민하고, 최적의 방안을 찾을 때까지 연구를 반복합니다.<br/><br/>
   
-  이러한 고민과 배움을 잊지 않기 위해, 업무 중 학습한 내용을 정리한 <mark>약 200page</mark> 분량의 **기술 포스트**를 작성하여
+  이러한 고민과 배움을 잊지 않기 위해, 업무 중 습득한 내용을 정리한 <mark>약 200page</mark> 분량의 **기술 포스트**를 작성하여
   팀원들과 공유하고 있고, 그중 공개 가능한 자료는 [기술 블로그](https://www.lts.kr/)를 통해 운영 중입니다.<br/><br/>
   
-  또한, 새로운 기술을 단순히 학습하는 데 그치지 않고, 이를 실제 문제 해결에 응용하여 batch, 통계 등 다양한 환경에서의 <mark>성능 개선</mark>을 이끌어냈습니다.<br/>
-  이처럼 서비스 품질 향상에 대한 적극적인 자세와 끊임없는 자기 개발을 통해, 더 나은 개발자로 지속적으로 성장해 나가고자 합니다.
+  또한, 새로운 기술을 단순히 학습하는 데 그치지 않고, 이를 실제 문제 해결에 응용하여 실제 운영 환경에서의 <mark>성능 개선</mark>을 이끌어냈습니다.<br/>
+  이처럼 서비스 품질 향상에 대한 적극적인 자세와 끊임없는 자기 개발을 통해, 더 나은 개발자로 지속적으로 성장해 나가고자 하는것이 목표입니다.
 
 
 # Projects Section
@@ -44,7 +44,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - 현대엔지비 주관 HSAT lv.3 인증서 취득
+   - 정보처리기사
+   - SQL개발자(SQLD자격)
+   - 현대엔지비 주관 HSAT lv.3 ( 코딩 역량 진단 평가 )
+   - 1종보통운전면허
 
 # Footer
 #footer_show_references: true

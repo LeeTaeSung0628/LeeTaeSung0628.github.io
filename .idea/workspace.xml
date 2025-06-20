@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 프로필 스크립트 수정">
-      <change afterPath="$PROJECT_DIR$/_data/opensource.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prof2.png" afterDir="false" />
+    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 취약점 개선 링크 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/experience.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/experience.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/more.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,10 @@
       <workItem from="1742519872872" duration="1585000" />
       <workItem from="1742545288912" duration="6211000" />
       <workItem from="1742801007695" duration="1225000" />
-      <workItem from="1743142538318" duration="6186000" />
+      <workItem from="1743142538318" duration="6335000" />
+      <workItem from="1745284759953" duration="757000" />
+      <workItem from="1745286490381" duration="2396000" />
+      <workItem from="1750407048084" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 초기 재설정 v0.2">
       <option name="closed" value="true" />
@@ -146,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742807998617</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: 프로필 스크립트 및 opensource 항목 추가">
+      <option name="closed" value="true" />
+      <created>1743149120432</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743149120432</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: 취약점 개선 링크 추가">
+      <option name="closed" value="true" />
+      <created>1745284835968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745284835968</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +180,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -182,6 +199,8 @@
     <MESSAGE value="feat: about_content 수정" />
     <MESSAGE value="feat: 프로필 이미지 변경" />
     <MESSAGE value="feat: 프로필 스크립트 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로필 스크립트 수정" />
+    <MESSAGE value="feat: 프로필 스크립트 및 opensource 항목 추가" />
+    <MESSAGE value="feat: 취약점 개선 링크 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 취약점 개선 링크 추가" />
   </component>
 </project>

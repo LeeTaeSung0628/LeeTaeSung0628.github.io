@@ -5,7 +5,7 @@
   quote: >
     Spring, JDBC, SQL, Servlet 을 이용한 웹 서비스 백엔드 강의
   description: | # this will include new lines to allow paragraphs
-    * Spring 기반 웹서비스의 구조와 동작 방식의 이해
+    * Spring 기반 웹서비스 base 지식
 
 - layout: left
   name: 부스트코스_  모두를 위한 컴퓨터 과학 (CS50 2019)
@@ -14,7 +14,7 @@
   quote: >
     컴퓨터과학(CS)에 대한 강의
   description: | # this will include new lines to allow paragraphs
-    * ComputerScience의 개념과 프로그래밍의 원론적인 원리
+    * ComputerScience의 개념과 프로그래밍의 원론적인 동작 방식과 정보
 
 - layout: left
   name: 인프런_  Spring Core Basic
@@ -23,6 +23,6 @@
   quote: >
     김영한 님의 Spring 강의
   description: | # this will include new lines to allow paragraphs
-    * Spring의 핵심원리와 가치
-    * 좀 더 나은 객체지향설계
+    * 좀 더 나은 객체지향설계를 위한 Spring의 핵심원리
+    * Java native 기반의 Spring 동작 구성
     

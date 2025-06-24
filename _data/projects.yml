@@ -3,10 +3,30 @@
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * [헬로펀딩_  SCF / 주택담보대출 투자 서비스 이슈 및 Lock기법 분석](https://lts.kr/issue_troubleshooting/%F0%9F%94%90-%EC%83%81%ED%92%88-%ED%88%AC%EC%9E%90%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-lock%EA%B8%B0%EB%B2%95-%EA%B0%9C%EC%84%A0%EC%95%88.html)
-    * [헬로펀딩_  투자하기 Connection Pool Dead Lock 분석](https://lts.kr/study/dev-seminar/%F0%9F%8D%82-jpa,-mybatis-,-dead-lock%EC%9D%B4%EC%8A%88.html)
-    * 헬로펀딩_  서비스 장애 대응 메뉴얼 작성 / 배포 - 투자, 정산, batch
-    * 전자금융기반시설 취약성 점검 미흡 사항 개선 - [RSA암호화 도입](https://lts.kr/issue_troubleshooting/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html) / ocr 광학인증 개선
+  
+    * **전자금융기반시설 점검 대비 취약점 개선** - *(2025.02 ~ 2025.05)*
+      - 중요정보 메모리 및 웹 영역 내 노출 방지
+      - 인증 우회 방지
+      - 신분증 OCR 광학 인증 마스킹 처리
+      - *링크 - [https://lts.kr/study/cs/RSA](https://lts.kr/study/cs/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html)*
+    
+    <br>
+      
+    * **헬로펀딩 서비스 이슈 대응 및 분석**
+      - 중요정보 메모리 및 웹 영역 내 노출 방지
+      - 트래픽 상황의 투자에서 Connection Pool Dead Lock 분석
+        - *링크 - [https://lts.kr/study/cs/ConnectionPool](https://lts.kr/study/dev-seminar/%F0%9F%8D%82-jpa,-mybatis-,-dead-lock%EC%9D%B4%EC%8A%88.html)*
+      - SCF/주담대 투자 서비스 잠재적 위험 및 Lock 분석 
+        - *링크 - [https://lts.kr/study/cs/Lock](https://lts.kr/issue_troubleshooting/%F0%9F%94%90-%EC%83%81%ED%92%88-%ED%88%AC%EC%9E%90%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-lock%EA%B8%B0%EB%B2%95-%EA%B0%9C%EC%84%A0%EC%95%88.html)*
+    
+    <br>
+      
+    * **헬로펀딩_ 서비스 장애 대응 메뉴얼 작성**
+      -  배포 - ADMIN, Batch, 투자, 정산 
+
+    <br>
+    
+    ---
 
 - layout: top-middle
   name: 레거시 시스템 리팩토링
@@ -22,6 +42,7 @@
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
+    * 주택담보대출 2차 PG 결제 시스템 API 개발 및 도입 
     * 사이드 프로젝트_  커플 위치공유 서비스 [MeloMeter](https://github.com/TeamMeloMeter/MeloMeter_Dev) - 기획/개발/유지보수, 500명 회원 관리 - ios, RxSwift, MongoDB
     * 케이투웹테크_  서울시 보건소 차트 프로그램 개발 및 운영 참여 - 환자예약 일정 관리 모듈 설계/개발 , 진료/판정 페이지 로직 개발 - 전자정부프레임워크
     * [헬로펀딩_  marketing Analytics공통 모듈 개발](https://lts.kr/project/hello-marketing/%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6-marketing-analytics-%EA%B3%B5%ED%86%B5%EB%AA%A8%EB%93%88-%EC%A0%9C%EC%9E%91%EA%B8%B0.html) - Spring AOP, customAdvisor, 관리 Tool(ADMIN) 설계/개발/유지보수 
@@ -33,5 +54,14 @@
   description: | # this will include new lines to allow paragraphs
     * 헬로펀딩_  jenkins / docker / k8s / 분산DB 환경에서의 멀티스레드 모듈 개발 
     * 사이드 프로젝트_  FireBase의 realtime database를 사용한 실시간 위치공유 서비스 개발 / 회원 관리
+    * 커플전용 위치공유 ios service [MELO METER](https://apps.apple.com/kr/app/melometer/id6450677988) 출시 및 1000명 회원 유치
     * [Obsidian기반 Blog](https://lts.kr/project/note-ci_cd/%F0%9F%91%BB-obsidian-%EC%A0%95%EC%A0%81%ED%98%B8%EC%8A%A4%ED%8C%85-cicd-%EA%B3%BC%EC%A0%95.html) - AWS/Docker →  netlify CI/CD 운영
     * 사이드 프로젝트_ [AnoniChat](https://lts.kr/project/new-project/%E2%98%98-anoni-chat-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%8F%84%EA%B5%AC-%EC%A0%81%EC%9A%A9(elastic-apm)-+-slack%EC%95%8C%EB%A6%BC.html) - Cloud 기반 CI/CD 인프라 전체 구축 및 운영 (Jenkins / ELK-stack / git )
+    * [순천만국가정원](https://apps.apple.com/kr/app/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90/id1600170379) 가이드 앱 개발/출시
+      
+      
+      * [서비스 통계 & 관리 도입 (Spring AOP)](https://lts.kr/project/hello-marketing/%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6-marketing-analytics-%EA%B3%B5%ED%86%B5%EB%AA%A8%EB%93%88-%EC%A0%9C%EC%9E%91%EA%B8%B0.html)
+      
+        * [신규 서비스 주택담보대출](https://www.hellofunding.co.kr/sp/loan) 시세조회 모듈, 서류 원클릭 수취 모듈 개발
+      
+        * [회원 예치금 배치 서비스 성능 개선 (Spring Batch)](https://lts.kr/project/hello-batch/%F0%9F%8F%B9-%EC%98%88%EC%B9%98%EA%B8%88-%EC%B0%A8%EC%95%A1-%EB%B9%84%EA%B5%90-spring-batch-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81.html)

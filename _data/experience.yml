@@ -1,46 +1,82 @@
 - layout: left
-  company: 헬로펀딩
+  company: 헬로펀딩(HelloFunding)
   link: https://www.hellofunding.co.kr
-  job_title: Java & Spring / JS - 풀스텍 개발
-  dates: 2024.05 ~ 현재
+  job_title: it개발팀 - BackEnd/Front 개발자
+  dates: 2024.05 ~ 재직중 (1년 2개월)
   quote: >
     누적 대출금액 2조 5000억원의 대출·투자 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * [전자금융기반시설 취약점 개선](https://lts.kr/study/cs/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html)
-    * 대규모 트래픽, 데이터 환경에서의 모듈 개발 / 장애 대응
-    * [서비스 통계 & 관리 도입 (Spring AOP)](https://lts.kr/project/hello-marketing/%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6-marketing-analytics-%EA%B3%B5%ED%86%B5%EB%AA%A8%EB%93%88-%EC%A0%9C%EC%9E%91%EA%B8%B0.html)
-    * [신규 서비스 주택담보대출](https://www.hellofunding.co.kr/sp/loan) 시세조회 모듈, 서류 원클릭 수취 모듈 개발
-    * [회원 예치금 배치 서비스 성능 개선 (Spring Batch)](https://lts.kr/project/hello-batch/%F0%9F%8F%B9-%EC%98%88%EC%B9%98%EA%B8%88-%EC%B0%A8%EC%95%A1-%EB%B9%84%EA%B5%90-spring-batch-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81.html)
-    * 주택담보 대출 2차 PG 결제 시스템 도입
-    * 코드리뷰 & 세미나 & 깃 컨벤션 신규도입 등 개발환경 개선 참여
+    
+    * 헬로펀딩 WebApp 백앤드 API개발 / 프론트 view 개발
+    
+    * 주택담보대출 시세조회 / 원클릭 서류수취 모듈 API 구현
+
+    * Redis / MySQL 데이터베이스 운영 및 정산 자료 추출
+    
+    * 헬로펀딩 투자/주담대 서비스 장애 대응, 복구
+    
+    * 헬로펀딩 APP 서비스 통계 & 관리 시스템 신규 도입 및 구현 / 데이터 모델링(Spring AOP)
+    
+    * 회원 예치금 정산 Batch 서비스 리펙토링, 성능개선(Spring Batch)
+    
+    * 전자금융기반시설 점검 대비 취약점 개선 - RSA암호화 및 민감정보 OCR 마스킹 도입
+    
+    * 코드리뷰, 사내 기술 세미나를 통한 전문성 및 협업 역량 강화
+  
+   
+    Skill Keywords
+
+    <mark>Java</mark> <mark>Spring Boot</mark> <mark>Spring AOP</mark> <mark>Spring Batch</mark> <mark>JavaScript</mark> <mark>JQuery</mark> <mark>MySQL</mark> <br> <mark>Redis</mark> <mark>Docker</mark> <mark>ELK-Stack</mark> <mark>K8S</mark> <mark>Jenkins</mark>
+    <br><br><br>
+    
+    ---
+
 - layout: left
   company: TeamMeloMeter
-  link:
-  job_title: swift - fireBase cloud - 백엔드 개발<br/>사이드 프로젝트
+  link: https://apps.apple.com/kr/<br>app/melometer/id6450677988
+  job_title: backend/infra 개발자<br/>사이드 프로젝트
   dates: 2023.05 ~ 2023.11
   quote: >
-    위치기반 서비스 사업 (side project)
+    커플전용 - 위치공유, 채팅, 백문백담, 기념일, 장소저장 Application
   description: | # this will include new lines to allow paragraphs
-    * 커플전용 위치공유 ios service [MELO METER](https://apps.apple.com/kr/app/melometer/id6450677988) 출시 및 500명 회원 유치
-    * fireBase 인프라 구축
-    * NoSQL 실시간 DB 설계
-    * 실시간 위치공유 서비스 / 채팅 서비스 개발
+    
+    * Google FireBase Cloud 기반 인프라 구축 / Apple Store 배포
+    
+    * Google Auth 본인인증 시스템 개발
+    
+    * NoSQL 실시간 DB 모델링 및 유지보수 관리
+    
+    * 실시간 위치공유 서비스 / 실시간 채팅 서비스 API개발 및 View 구현
+    
+    
+    Skill Keywords
+
+    <mark>RxSwift</mark> <mark>StoryBord</mark> <mark>GoogleFireBase</mark> <mark>FireBase NoSQL</mark> <mark>MongoDB</mark> <br> <mark>Google Auth</mark> <mark>Git</mark> <mark>MVVP</mark>
+    <br><br><br>
+    
+    ---
+
 - layout: left
   company: 케이투웹테크
   link: https://www.k2web.co.kr/
-  job_title: Java & Spring / JS - 풀스텍 개발 / 대학연계 인턴
-  dates: 2022.04 ~ 2023.03
+  job_title: 기업 연구소 - BackEnd/Front 개발자
+  dates: 2022.04 ~ 2023.03 (1년)
   quote: >
     웹기반 솔루션 SI 기업
   description: | # this will include new lines to allow paragraphs
-     * 서울시 보건소 의료차트 서비스 개발/운영
-     * 그룹웨어 레거시 시스템 (PHP > SpringBoot) 기반 리펙토링
-- layout: left
-  company: 학부생 연구원
-  job_title: Web/App 프로젝트 담당
-  dates: 2021.06 ~ 2022.02
-  quote: >
-   대학 학부생 프로젝트 개발 연구원 활동
-  description: | # this will include new lines to allow paragraphs
-     * [대치 명인 학원 홈페이지] 모의고사 기출문제 페이지 유지보수
-     * [순천만국가정원](https://apps.apple.com/kr/app/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90/id1600170379) 가이드 앱 개발/출시
+    
+    * 서울시 보건소 의료차트  예약 서비스 API 개발
+    
+    * 서울시 보건소 의료차트 대사증후근 판정 페이지 API 개발 / 페이지 구현
+    
+    * 그룹웨어 레거시 시스템 (PHP > SpringBoot) 리펙토링
+    
+    * 그룹웨어 로직 관계도/부서 관계도 레거시 리펙토링
+    
+    * 파일 저장 모듈 API 개발
+  
+  
+    Skill Keywords
+
+    <mark>Java</mark> <mark>Spring Framework</mark> <mark>JavaScript</mark> <mark>JQuery</mark> <mark>Ajax</mark> <mark>MySQL</mark> <br> <mark>Oracle</mark> <mark>SVN</mark> <mark>PHP</mark>
+    <br><br><br>

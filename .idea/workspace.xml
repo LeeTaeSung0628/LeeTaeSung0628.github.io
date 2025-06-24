@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 전반적 내용 수정 v2">
+    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 전반적 내용 수정 v3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/experience.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/experience.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <workItem from="1745286490381" duration="2396000" />
       <workItem from="1750407048084" duration="1381000" />
       <workItem from="1750408527614" duration="1333000" />
-      <workItem from="1750726736301" duration="890000" />
+      <workItem from="1750726736301" duration="16355000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 초기 재설정 v0.2">
       <option name="closed" value="true" />
@@ -179,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750409229269</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: 전반적 내용 수정 v3">
+      <option name="closed" value="true" />
+      <created>1750727646236</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750727646236</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +227,7 @@
     <MESSAGE value="feat: 취약점 개선 링크 추가" />
     <MESSAGE value="feat: 전반적 내용 수정" />
     <MESSAGE value="feat: 전반적 내용 수정 v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 전반적 내용 수정 v2" />
+    <MESSAGE value="feat: 전반적 내용 수정 v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 전반적 내용 수정 v3" />
   </component>
 </project>

@@ -45,8 +45,11 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
    - 정보처리기사
+  
    - SQL개발자(SQLD자격)
+  
    - 현대엔지비 주관 HSAT lv.3 ( 코딩 역량 진단 평가 )
+  
    - 1종보통운전면허
 
 # Footer

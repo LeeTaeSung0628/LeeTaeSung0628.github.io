@@ -3,10 +3,10 @@
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * [헬로펀딩_  SCF / 주택담보대출 투자 서비스 이슈 및 Lock기법 분석](https://lts.kr/issue_troubleshooting/%F0%9F%94%90-%EC%83%81%ED%92%88-%ED%88%AC%EC%9E%90%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%B4%EC%8A%88-%EB%B0%8F-lock%EA%B8%B0%EB%B2%95-%EA%B0%9C%EC%84%A0%EC%95%88.html)
+    * [헬로펀딩_  SCF / 주택담보대출 투자 서비스 이슈 및 Lock기법 분석](https://lts.kr/issue_troubleshooting/%F0%9F%94%90-%EC%83%81%ED%92%88-%ED%88%AC%EC%9E%90%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-lock%EA%B8%B0%EB%B2%95-%EA%B0%9C%EC%84%A0%EC%95%88.html)
     * [헬로펀딩_  투자하기 Connection Pool Dead Lock 분석](https://lts.kr/study/dev-seminar/%F0%9F%8D%82-jpa,-mybatis-,-dead-lock%EC%9D%B4%EC%8A%88.html)
     * 헬로펀딩_  서비스 장애 대응 메뉴얼 작성 / 배포 - 투자, 정산, batch
-    * 전자금융기반시설 취약성 점검 미흡 사항 개선 - [RSA암호화 도입](https://lts.kr/study/cs/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html) / ocr 광학인증 개선
+    * 전자금융기반시설 취약성 점검 미흡 사항 개선 - [RSA암호화 도입](https://lts.kr/issue_troubleshooting/%F0%9F%9A%A8-rsa-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%81%EC%9A%A9-(feat.%EC%B7%A8%EC%95%BD%EC%84%B1%EC%A0%90%EA%B2%80).html) / ocr 광학인증 개선
 
 - layout: top-middle
   name: 레거시 시스템 리팩토링
@@ -15,7 +15,7 @@
   description: | # this will include new lines to allow paragraphs
     * 케이투웹테크_  ERP 레거시 시스템 개편 - PHP → Java Spring - JS
     * [헬로펀딩_  예치금 정산 Batch 개편](https://lts.kr/project/hello-batch/%F0%9F%8F%B9-%EC%98%88%EC%B9%98%EA%B8%88-%EC%B0%A8%EC%95%A1-%EB%B9%84%EA%B5%90-spring-batch-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81.html) - tasklet방식 → Chunk, Partioning, QuerydslPagingItemReader 모듈 신규 개발 처리시간 <mark>80% 감축</mark>
-    * [헬로펀딩_  투자하기 페이지 Script 로딩지연 개선](https://lts.kr/issue_troubleshooting/%E2%8F%B0-script-%EB%A1%9C%EB%94%A9-%EC%A7%80%EC%97%B0-%EC%9D%B4%EC%8A%88.html) - 정적컨텐츠 지연 로딩으로 상품요소 로드시간 <mark>20s → 0.3s</mark> 개선
+    * [헬로펀딩_  투자하기 페이지 정적리소스 랜더링 지연 개선](https://lts.kr/issue_troubleshooting/%E2%8F%B0-%EC%83%81%ED%92%88-%ED%88%AC%EC%9E%90-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%95%EC%A0%81%EB%A6%AC%EC%86%8C%EC%8A%A4-%EB%9E%9C%EB%8D%94%EB%A7%81-%EC%A7%80%EC%97%B0-%EC%9D%B4%EC%8A%88.html) - 정적컨텐츠 지연 로딩으로 상품요소 로드시간 <mark>20s → 0.3s</mark> 개선
 
 - layout: top-middle
   name: 데이터 구조 및 애플리케이션 설계

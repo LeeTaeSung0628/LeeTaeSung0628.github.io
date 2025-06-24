@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 전반적 내용 수정">
+    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 전반적 내용 수정 v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/skill.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/skill.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,8 @@
       <workItem from="1745284759953" duration="757000" />
       <workItem from="1745286490381" duration="2396000" />
       <workItem from="1750407048084" duration="1381000" />
-      <workItem from="1750408527614" duration="687000" />
+      <workItem from="1750408527614" duration="1333000" />
+      <workItem from="1750726736301" duration="890000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 초기 재설정 v0.2">
       <option name="closed" value="true" />
@@ -172,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750408421168</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: 전반적 내용 수정 v2">
+      <option name="closed" value="true" />
+      <created>1750409229269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750409229269</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +218,7 @@
     <MESSAGE value="feat: 프로필 스크립트 및 opensource 항목 추가" />
     <MESSAGE value="feat: 취약점 개선 링크 추가" />
     <MESSAGE value="feat: 전반적 내용 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 전반적 내용 수정" />
+    <MESSAGE value="feat: 전반적 내용 수정 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 전반적 내용 수정 v2" />
   </component>
 </project>

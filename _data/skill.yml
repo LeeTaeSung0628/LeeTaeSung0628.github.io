@@ -8,7 +8,7 @@
   name: DevOps
   description: | # this will include new lines to allow paragraphs
     * MySQL,  MongoDB,  Oracle
-    * Jenkins,  AWS,  Docker,  Git,  ELK-stack, 
+    * Jenkins,  AWS,  Docker,  Git,  ELK-stack, Nginx
     * Redis
     * FireBase, AWS, Vultr Cloud
 - layout: left

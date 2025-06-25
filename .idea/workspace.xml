@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 전반적 내용 수정 v6">
+    <list default="true" id="c0b73bd8-c1db-46f5-b292-1d406e2ea9c2" name="Changes" comment="feat: 사진 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <workItem from="1750407048084" duration="1381000" />
       <workItem from="1750408527614" duration="1333000" />
       <workItem from="1750726736301" duration="25702000" />
-      <workItem from="1750811667972" duration="1447000" />
+      <workItem from="1750811667972" duration="9873000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 초기 재설정 v0.2">
       <option name="closed" value="true" />
@@ -211,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750757278408</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: 사진 수정">
+      <option name="closed" value="true" />
+      <created>1750813701250</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1750813701250</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +262,7 @@
     <MESSAGE value="feat: 전반적 내용 수정 v4" />
     <MESSAGE value="feat: 전반적 내용 수정 v5" />
     <MESSAGE value="feat: 전반적 내용 수정 v6" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 전반적 내용 수정 v6" />
+    <MESSAGE value="feat: 사진 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 사진 수정" />
   </component>
 </project>

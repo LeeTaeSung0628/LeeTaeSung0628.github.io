@@ -20,7 +20,7 @@ facebook_username: LeeTaeSung0628
 
 # About Section
 # about_title: About Me
-about_profile_image: images/prof2.png
+about_profile_image: images/prof.jpg
 about_content: | # this will include new lines to allow paragraphs
   Java & Spring / web, mobile 기반의 <mark>2년 차</mark> 서버 백엔드 개발자로서 다양한 경험을 쌓아왔습니다.
   특히, **좋은 객체지향 설계**를 목표로 항상 고민하고, 최적의 방안을 찾을 때까지 연구를 반복합니다.<br/><br/>
